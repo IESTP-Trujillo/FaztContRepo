@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwPJaZa1G9o1pgxFCy0+l00XEdvPGfe3X0XlDIjm7Yc0ubw9KYNTYM8NaoiA9VCKqb92tyrWyRXeig7EmAgG0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoser\\Desktop\\IESTP TRUJILLO\\FAZT CONT\\proyecto\\FaztContRepo\\FaztContav2\\FaztContav2.iOS\\FaztContav2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoser\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

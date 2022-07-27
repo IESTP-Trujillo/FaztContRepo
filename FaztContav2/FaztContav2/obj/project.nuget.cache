@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bjo90WQ15OTZE2Ynk+rt+oueWcZPQolW1VQGmEv4h36KvVrgRdXvB5Gr1B8xD6W6ARAbnKimNRofA83+NttBRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoser\\Desktop\\IESTP TRUJILLO\\FAZT CONT\\proyecto\\FaztContRepo\\FaztContav2\\FaztContav2\\FaztContav2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Yoser\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
